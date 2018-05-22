@@ -1,2 +1,1 @@
-print "hi."
-print "dfsf"
+print "hi"
