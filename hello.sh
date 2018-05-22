@@ -1,4 +1,4 @@
-print "hello"
-print "yes"
-print "yahoo"
+print "hello4"
+print "yes;"
+print "yahoo;"
 print "fuh"
